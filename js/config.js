@@ -8,11 +8,10 @@
 window.AVANER_CONFIG = {
   // -----------------------------------------------------------------------
   // 1) Supabase — pegue em Project Settings → API no seu projeto Supabase
-  //    (crie um projeto NOVO e dedicado, separado do Código Vermelho e do
-  //    CRM — é o que evita o problema de conexão que vocês já tiveram).
+  //    Projeto compartilhado CONTEUDOS-AVANER (aplicações AVANER).
   // -----------------------------------------------------------------------
-  SUPABASE_URL: 'https://lnhfvkkgqvuhjqoxcgjz.supabase.co',
-  SUPABASE_ANON_KEY: 'sb_publishable_xoOSKs3Ch5t5Rt311VMW7Q_xHAD_acA',
+  SUPABASE_URL: 'https://doyoezziqsgtzgpwxdjj.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_VxseI_TdIOWEJbzFtp3mcg_aSRXzQYc',
 
   // -----------------------------------------------------------------------
   // 2) Datas do lançamento
